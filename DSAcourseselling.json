@@ -1,0 +1,194 @@
+{
+    "Courses": [
+        {
+            "id": 1,
+            "name": "2Hr workshop",
+            "price": "FREE",
+            "menu_description": "Know And learn about DSA",
+            "classifications": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9r3H5wPsc3BbGQ_AKYZycpGPp7Nuy1qb-g&s"
+                }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "DSA IN Python",
+            "price": "FREE",
+            "menu_description": " Learn DSA in python in one shot 6 hr recorded live class",
+            "classifications": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYfFN_aW-qU-FXqtvXyCf19dM9M-CodHesA&s"
+                }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "C++ Sudoku Game",
+            "price": "459",
+            "menu_description": "learn how to make a project in c++ by creating a famous game Sudoko",
+            "classifications": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDxKuojPorJSllBfpMan6hx50EGQsVRSXNQA&s"
+                }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "DSA Techniqes",
+            "price": "FREE",
+            "menu_description": "Some Techniqes and ideas to solve the dsa problems arises during coding for beginners": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1681893276694-Types%20of%20Errors%20in%20Programming.jpg"
+                }
+                ]
+            }
+        },
+       {
+            "id": 5,
+            "name": "DSA ROADMAP",
+            "price": "FREE",
+            "menu_description": "A full fleged and appropriate Roadmap for DSA beginners": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://miro.medium.com/v2/resize:fit:1400/1*HTbkY0abBf4kRX3cK2JUrw.png"
+                }
+                ]
+            }
+        },
+        
+       {
+            "id": 6,
+            "name": "DSA BASICS",
+            "price": "699",
+            "menu_description": "Learn complete DSA basics in just 6 hours",
+            "classifications": {
+                "Courses": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZKAMBul-iumY07TtO1sHy1072AE6Sai8OA&s"
+                }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Master in Trees",
+            "price": "249",
+            "menu_description": "learn one of most important and sometimes difficult topic from experts",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240415185343/tree-data-structure-banners-(2).webp"
+                }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Master IN Graph",
+            "price": "249",
+            "menu_description": "learn one of most important and sometimes difficult topic from experts",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://www.masaischool.com/blog/content/images/2022/07/Graph-Data-Structure---2-.png"
+                }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Complete DSA Course",
+            "price": "2999",
+            "menu_description": "Learn complete DSA course From Expersts in 6 month live classess",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
+                }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "Interview Questions",
+            "price": "459",
+            "menu_description": "Preperation for interviews section in DSA ",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z0ufRKBhI8G_4rdP2j2HviUNfyvyca0FBA&s"
+                }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "]Review Session",
+            "price": "1599",
+            "menu_description": "Take a quick review session for complete DSA": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
+                }
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "DSA Project ",
+            "price": 999",
+            "menu_description": "DSA Project for your Resume Selected in high class job sector",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://i.ytimg.com/vi/bickUVsxB48/maxresdefault.jpgr"
+                }
+                ]
+            }
+        }
+    ]
+}
