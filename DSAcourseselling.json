@@ -10,9 +10,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9r3H5wPsc3BbGQ_AKYZycpGPp7Nuy1qb-g&s"
-                }
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9r3H5wPsc3BbGQ_AKYZycpGPp7Nuy1qb-g&s"
+                    }
                 ]
             }
         },
@@ -26,9 +26,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYfFN_aW-qU-FXqtvXyCf19dM9M-CodHesA&s"
-                }
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYfFN_aW-qU-FXqtvXyCf19dM9M-CodHesA&s"
+                    }
                 ]
             }
         },
@@ -42,9 +42,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDxKuojPorJSllBfpMan6hx50EGQsVRSXNQA&s"
-                }
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDxKuojPorJSllBfpMan6hx50EGQsVRSXNQA&s"
+                    }
                 ]
             }
         },
@@ -52,34 +52,35 @@
             "id": 4,
             "name": "DSA Techniqes",
             "price": "FREE",
-            "menu_description": "Some Techniqes and ideas to solve the dsa problems arises during coding for beginners": {
+            "menu_description": "Some Techniqes and ideas to solve the dsa problems arises during coding for beginners",
+            "classifications": {
                 "Courses": true
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1681893276694-Types%20of%20Errors%20in%20Programming.jpg"
-                }
+                    {
+                        "url": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1681893276694-Types%20of%20Errors%20in%20Programming.jpg"
+                    }
                 ]
             }
         },
-       {
+        {
             "id": 5,
             "name": "DSA ROADMAP",
             "price": "FREE",
-            "menu_description": "A full fleged and appropriate Roadmap for DSA beginners": {
+            "menu_description": "A full fleged and appropriate Roadmap for DSA beginners",
+            "classifications": {
                 "Courses": true
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://miro.medium.com/v2/resize:fit:1400/1*HTbkY0abBf4kRX3cK2JUrw.png"
-                }
+                    {
+                        "url": "https://miro.medium.com/v2/resize:fit:1400/1*HTbkY0abBf4kRX3cK2JUrw.png"
+                    }
                 ]
             }
         },
-        
-       {
+        {
             "id": 6,
             "name": "DSA BASICS",
             "price": "699",
@@ -89,9 +90,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZKAMBul-iumY07TtO1sHy1072AE6Sai8OA&s"
-                }
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZKAMBul-iumY07TtO1sHy1072AE6Sai8OA&s"
+                    }
                 ]
             }
         },
@@ -105,9 +106,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240415185343/tree-data-structure-banners-(2).webp"
-                }
+                    {
+                        "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240415185343/tree-data-structure-banners-(2).webp"
+                    }
                 ]
             }
         },
@@ -121,9 +122,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://www.masaischool.com/blog/content/images/2022/07/Graph-Data-Structure---2-.png"
-                }
+                    {
+                        "url": "https://www.masaischool.com/blog/content/images/2022/07/Graph-Data-Structure---2-.png"
+                    }
                 ]
             }
         },
@@ -137,9 +138,9 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
-                }
+                    {
+                        "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
+                    }
                 ]
             }
         },
@@ -153,40 +154,41 @@
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z0ufRKBhI8G_4rdP2j2HviUNfyvyca0FBA&s"
-                }
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z0ufRKBhI8G_4rdP2j2HviUNfyvyca0FBA&s"
+                    }
                 ]
             }
         },
         {
             "id": 11,
-            "name": "]Review Session",
+            "name": "Review Session",
             "price": "1599",
-            "menu_description": "Take a quick review session for complete DSA": {
+            "menu_description": "Take a quick review session for complete DSA",
+            "classifications": {
                 "vegetarian": true
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
-                }
+                    {
+                        "url": "https://www.oxfordinstitute.in/img/dsa-course.jpg"
+                    }
                 ]
             }
         },
         {
             "id": 12,
             "name": "DSA Project ",
-            "price": 999",
+            "price": "999",
             "menu_description": "DSA Project for your Resume Selected in high class job sector",
             "classifications": {
                 "vegetarian": true
             },
             "assets": {
                 "menu": [
-                {
-                    "url": "https://i.ytimg.com/vi/bickUVsxB48/maxresdefault.jpgr"
-                }
+                    {
+                        "url": "https://i.ytimg.com/vi/bickUVsxB48/maxresdefault.jpgr"
+                    }
                 ]
             }
         }
