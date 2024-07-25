@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "2Hr workshop",
-            "price": "FREE",
+            "price": "*FREE",
             "menu_description": "Know And learn about DSA",
             "classifications": {
                 "Courses": true
@@ -19,7 +19,7 @@
         {
             "id": 2,
             "name": "DSA IN Python",
-            "price": "FREE",
+            "price": "*FREE",
             "menu_description": " Learn DSA in python in one shot 6 hr recorded live class",
             "classifications": {
                 "Courses": true
@@ -35,7 +35,7 @@
         {
             "id": 3,
             "name": "C++ Sudoku Game",
-            "price": "459",
+            "price": "*FREE",
             "menu_description": "learn how to make a project in c++ by creating a famous game Sudoko",
             "classifications": {
                 "Courses": true
@@ -51,7 +51,7 @@
         {
             "id": 4,
             "name": "DSA Techniqes",
-            "price": "FREE",
+            "price": "*FREE",
             "menu_description": "Some Techniqes and ideas to solve the dsa problems arises during coding for beginners",
             "classifications": {
                 "Courses": true
@@ -67,7 +67,7 @@
         {
             "id": 5,
             "name": "DSA ROADMAP",
-            "price": "FREE",
+            "price": "*FREE",
             "menu_description": "A full fleged and appropriate Roadmap for DSA beginners",
             "classifications": {
                 "Courses": true
@@ -83,7 +83,7 @@
         {
             "id": 6,
             "name": "DSA BASICS",
-            "price": "699",
+            "price": "₹699",
             "menu_description": "Learn complete DSA basics in just 6 hours",
             "classifications": {
                 "Courses": true
@@ -99,7 +99,7 @@
         {
             "id": 7,
             "name": "Master in Trees",
-            "price": "249",
+            "price": "₹249",
             "menu_description": "learn one of most important and sometimes difficult topic from experts",
             "classifications": {
                 "vegetarian": true
@@ -115,7 +115,7 @@
         {
             "id": 8,
             "name": "Master IN Graph",
-            "price": "249",
+            "price": "₹249",
             "menu_description": "learn one of most important and sometimes difficult topic from experts",
             "classifications": {
                 "vegetarian": true
@@ -131,7 +131,7 @@
         {
             "id": 9,
             "name": "Complete DSA Course",
-            "price": "2999",
+            "price": "₹2999",
             "menu_description": "Learn complete DSA course From Expersts in 6 month live classess",
             "classifications": {
                 "vegetarian": true
@@ -147,7 +147,7 @@
         {
             "id": 10,
             "name": "Interview Questions",
-            "price": "459",
+            "price": "₹459",
             "menu_description": "Preperation for interviews section in DSA ",
             "classifications": {
                 "vegetarian": true
@@ -163,7 +163,7 @@
         {
             "id": 11,
             "name": "Review Session",
-            "price": "1599",
+            "price": "₹1599",
             "menu_description": "Take a quick review session for complete DSA",
             "classifications": {
                 "vegetarian": true
@@ -179,7 +179,7 @@
         {
             "id": 12,
             "name": "DSA Project ",
-            "price": "999",
+            "price": "₹999",
             "menu_description": "DSA Project for your Resume Selected in high class job sector",
             "classifications": {
                 "vegetarian": true
